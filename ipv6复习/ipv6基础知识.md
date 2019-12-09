@@ -24,7 +24,7 @@
 ![ipv6_address](https://github.com/JeckieChen/ipv6/blob/master/ipv6%E5%A4%8D%E4%B9%A0/img/IPv6%E5%9C%B0%E5%9D%80.png)
   
 ### 配置动态IPv6地址
-![ipv6_address2](https://github.com/JeckieChen/ipv6/blob/master/ipv6%E5%A4%8D%E4%B9%A0/img/IPv6%E5%9C%B0%E5%9D%80.png)
+![ipv6_address2](https://github.com/JeckieChen/ipv6/blob/master/ipv6%E5%A4%8D%E4%B9%A0/img/%E5%8A%A8%E6%80%81IPv6%E5%9C%B0%E5%9D%80.png)
 
 ### 路由消息宣告
 方式一：  
