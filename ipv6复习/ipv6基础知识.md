@@ -19,6 +19,12 @@
   128位的IP地址  
   **可以是一个单播或组播地址**  
   没有广播地址，这是一个所有节点的组播地址  
+  
+### IPv6地址
+![ipv6_address](https://github.com/JeckieChen/ipv6/blob/master/ipv6%E5%A4%8D%E4%B9%A0/img/IPv6%E5%9C%B0%E5%9D%80.png)
+  
+### 配置动态IPv6地址
+![ipv6_address2](https://github.com/JeckieChen/ipv6/blob/master/ipv6%E5%A4%8D%E4%B9%A0/img/IPv6%E5%9C%B0%E5%9D%80.png)
 
 ### 路由消息宣告
 方式一：  
